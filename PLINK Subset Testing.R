@@ -1,7 +1,7 @@
 #This script is for comparing the performance of PLINK in duplicate matching, between using all SNPs selected or a subset
 
 #set working directory [must contain plink.exe and files for analysis]
-setwd("C:/Users/curly/Desktop/PLINK Subset Testing/Inputs")
+setwd("C:/Users/curly/Desktop/Apple Genotyping/Methods/PLINK Subset Testing/Inputs")
 
 
 ##Run PLINK with all SNPs
